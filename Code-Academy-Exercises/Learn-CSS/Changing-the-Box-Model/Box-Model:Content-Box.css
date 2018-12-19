@@ -1,0 +1,5 @@
+/* css properties have a default value that don't explicitly set in the stylesheet.
+
+width + padding + border = actual rendered width of an element box.
+
+The default value of the box-sizing property is content-box.*/
