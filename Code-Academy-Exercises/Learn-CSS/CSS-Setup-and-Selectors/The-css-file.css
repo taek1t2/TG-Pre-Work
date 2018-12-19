@@ -1,0 +1,5 @@
+p {
+  font-family: Arial;
+}
+
+/* removing the inline stylesheet in the html document and separate the CSS file to HTML file */

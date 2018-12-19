@@ -1,0 +1,14 @@
+h1 {
+  color: maroon;
+}
+
+p {
+  font-family: Arial;
+}
+
+.title {
+  color: teal;
+}
+
+
+/* learn that any name under the class attribute, the css syntax is with a "." */

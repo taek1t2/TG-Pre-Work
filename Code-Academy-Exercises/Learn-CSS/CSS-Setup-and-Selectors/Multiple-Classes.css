@@ -1,0 +1,17 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+/* showing shortcuts for adding multiple classes by separating them with a space. */
