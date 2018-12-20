@@ -1,0 +1,8 @@
+
+
+
+/* Explicit defining the dimensions and quantities of our grid elements using various properties.
+This works well in many cases, such as a landing page for a business that will display a specific amount of information at all times.
+
+Implicit: determins default behavior for the placement of elements when there are more than fit into the grid specfified.
+It add or fills in empty rows or columns.*/
