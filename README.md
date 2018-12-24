@@ -8,7 +8,7 @@ ex) The 'talk to us' button leads to a different page where a user can provide i
 
 ## From start to finish how does that data reach you to be rendered in the browser?
 
-Creating an HTMl format, organizing the content into section, where they're going to be shown and laid out throughout the page, then "painting" the page with CSS.
+Creating an HTMl format, organizing the content into section, where they're going to be shown and laid out throughout the page, then "painting" the page with CSS. The DOM (document object model) shows the content and CSSOM (cascade stylesheet object model) shows the styling. Javascript plays the role when the user needs to create a specific function in the web page, for example when a user is going to provide the information under the contact nav-bar: it requires a specific function of importing and exporting data or information and holds that data into another computer.
 
 ## What code is rendered in the browser?
 
@@ -24,7 +24,7 @@ Asks or requests the information. Both client and server use HTTP to communicate
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
-It all matters how much data the client side wants to store. And can use these datas as much as they can, especially if they're using API keys. It's an instant whenever it runs or opens
+It all matters how much data the client side wants to store. And can use these datas as much as they can. It's an instant whenever it runs or opens.
 
 ## How many instances of the server-side code are available at any given time?
 
