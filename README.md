@@ -16,7 +16,7 @@ Hypertext Markup Link or HTML; when it display its content.
 
 ## What is the server-side code’s main function?
 
-Gives or responds the information. Both client and server use HTTP to communicate to each other.
+Gives or responds the information. Both client and server use HTTP (Hypertext Transfer Protocol) to communicate each other.
 
 ## What is the client-side code’s main function?
 
@@ -38,4 +38,4 @@ ex) computer starting up or loading an application.
 
 ## How many instances of the the databases connected to the server application are created?
 
-At any given time. In an object-oriented programming (OOP), an instance is a specific realization of any object called instantiation. Each time the program starts or runs, it's the run-time of that instance.
+Any given time. In an object-oriented programming (OOP), an instance is a specific realization of any object called instantiation. Each time the program starts or runs, it's the run-time of that instance.
